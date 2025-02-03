@@ -1,2 +1,4 @@
-streamlit
-openai
+   python-pptx==0.x.y
+   streamlit>=0.68.0    
+   pandas>=2.0.0        
+   numpy>=1.23.0        
